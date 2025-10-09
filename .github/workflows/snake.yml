@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch:    
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
@@ -11,17 +11,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@master
         with:
           github_user_name: isa-batch
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push the generated SVG to the output branch
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
+          author_name: "github-actions"
+          author_email: "github-actions@github.com"
           message: "Generated snake svg"
           add: "dist/github-contribution-grid-snake.svg"
           push: true
