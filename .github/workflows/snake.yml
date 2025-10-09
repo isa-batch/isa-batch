@@ -7,7 +7,6 @@ on:
 
 jobs:
   generate:
-    name: Generate GitHub Contribution Snake
     runs-on: ubuntu-latest
 
     steps:
@@ -27,3 +26,5 @@ jobs:
           add: "dist/github-contribution-grid-snake.svg"
           push: true
           branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
