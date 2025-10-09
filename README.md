@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isaipaucar/isaipaucar/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/isa-batch/isa-batch/main/dist/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
