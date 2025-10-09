@@ -1,58 +1,69 @@
-# 👋 Hola, soy Isai Paucar
+<h1 align="center">👋 ¡Hola! Soy Isai Paucar</h1>
 
-### 💻 Desarrollador backend (y fullstack cuando toca) con pasión por construir soluciones eficientes, mantenibles y bien estructuradas.
+<p align="center">
+  🧠 <strong>Desarrollador backend</strong> con superpoderes fullstack cuando se necesita.
+</p>
 
----
-
-## 🧠 Sobre mí
-
-- 🧩 Me especializo en desarrollo **backend**, pero no le tengo miedo al **frontend** ni al **mobile**
-- 🚀 Actualmente trabajando en proyectos **independientes** y siempre en busca de nuevos desafíos
-- 📚 Aprendiendo: **.NET Core**, arquitectura limpia y buenas prácticas de desarrollo
-
----
-
-## 🛠️ Stack principal
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET Core" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/code-java-red?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/code-node.js-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/framework-angular-red?style=flat&logo=angular" />
+  <img src="https://img.shields.io/badge/mobile-flutter-blue?style=flat&logo=flutter" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🧩 Sobre mí
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isa-batch&show_icons=true&theme=tokyonight" height="180"/>
-</div>
-
----
-
-## 🧪 Actualmente explorando
-
-- 🧠 **.NET 6/7 con Clean Architecture**
-- ☁️ Microservicios, APIs REST y buenas prácticas SOLID
-- 🛠️ Automatización, testing y CI/CD
+- 💻 Me especializo en desarrollo **backend**, pero también desarrollo **frontend** y **apps móviles**
+- 🚀 Experiencia en proyectos **independientes**, desde APIs hasta apps móviles
+- 📚 Actualmente aprendiendo **.NET Core**, microservicios y arquitectura limpia
+- 🧠 Apasionado por resolver problemas reales con código limpio y eficiente
 
 ---
 
-## 📫 Contacto
+## 🛠️ Tecnologías que uso
+
+### 🧱 Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🧩 Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isa-batch&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## ✉️ Contacto
 
 - 📧 Email: [isaipaucardevices@gmail.com](mailto:isaipaucardevices@gmail.com)
-- 🌐 Próximamente: portfolio personal (en construcción)
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isaipaucar/isaipaucar/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
-## ✨ Gracias por visitar mi perfil
-
-Siempre estoy dispuesto a colaborar, aprender y compartir lo que sé. ¡Nos vemos en el código!
+<p align="center">
+  🚀 ¡Gracias por visitar mi perfil!
+</p>
