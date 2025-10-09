@@ -26,4 +26,4 @@ jobs:
           message: "Generated snake svg"
           add: "dist/github-contribution-grid-snake.svg"
           push: true
-          branch: output
+          branch: main
