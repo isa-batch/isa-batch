@@ -1,7 +1,7 @@
-<h1 align="center">👋 ¡Hola! Soy Isai Paucar</h1>
+<h1 align="center">👋 Soy Isai Paucar Lazo</h1>
 
 <p align="center">
-  🧠 <strong>Desarrollador backend</strong> con superpoderes fullstack cuando se necesita.
+  🧠 <strong>Desarrollador backend</strong> con habilidades fullstack cuando se necesita.
 </p>
 
 <p align="center">
